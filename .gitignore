@@ -1,0 +1,5 @@
+hulu-webpage-clone/
+.parcel-cache/
+dist/
+.git/
+node_modules/
